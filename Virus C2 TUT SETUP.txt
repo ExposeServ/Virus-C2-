@@ -32,6 +32,10 @@ pip3/pip3.9/pip3.10 install httpx
 pip3/pip3.9/pip3.10 install pycryptodome
 pip3/pip3.9/pip3.10 install pywin32
 
+PART 4 
+*RUN THE NET*
+python3.9 Virus.py / python3.10 Virus.py
+
 
 
 
