@@ -1,4 +1,4 @@
-  How TO Install "Virus C2"    
+  How To Install "Virus C2"    
 =============================
   DEBIAN 10/11 <Server>
 Install Python 3.9/3.10
